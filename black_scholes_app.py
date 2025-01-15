@@ -1,5 +1,3 @@
-from encodings.rot_13 import rot13
-
 import streamlit as st
 import pandas as pd
 import numpy as np
